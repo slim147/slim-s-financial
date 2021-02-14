@@ -1,0 +1,34 @@
+.tabContent {
+  color: royalblue;
+  display: none;
+  padding-top: 20px;
+  text-align: left;
+  background-color: white;
+}
+.border01 {
+  background-color: transparent !important;
+  color: royalblue;
+  border-width: medium;
+  border-bottom: none !important;
+  outline: none;
+  cursor: pointer;
+  font-size: 20px;
+  padding: 15px;
+}
+.border01.click {
+  background-color: white !important;
+  color: royalblue;
+  border-width: medium;
+  border-bottom: 2px solid royalblue !important;
+  outline: none;
+  cursor: pointer;
+  font-size: 20px;
+  padding: 15px;
+}
+.active1 {
+  color: royalblue;
+  display: flow-root;
+  padding-top: 20px;
+  text-align: left;
+  background-color: white;
+}

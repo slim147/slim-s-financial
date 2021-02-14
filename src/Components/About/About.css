@@ -1,0 +1,12 @@
+.wrapper1 {
+  height: 0;
+  transition: all 0.5s ease-in;
+  transform-origin: left top;
+  transform: scaleY(0);
+}
+.wrapper1.open {
+  padding: 10px;
+  height: 100% !important;
+  background: transparent;
+  transform: scaleY(1);
+}
