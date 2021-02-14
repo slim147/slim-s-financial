@@ -1,1 +1,0 @@
-# slim-s-financial
